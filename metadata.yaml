@@ -1,0 +1,34 @@
+_repo: Roger-Trewinion_24976
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: King, Gunning
+    birthdate: 1859
+    deathdate: 1940
+    gutenberg_agent_id: '26852'
+    url: http://www.gutenberg.org/2009/agents/26852
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hocking, Joseph
+    birthdate: 1860
+    deathdate: 1937
+    gutenberg_agent_id: '4870'
+    url: http://www.gutenberg.org/2009/agents/4870
+description: ''
+gutenberg_issued: '2008-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24976'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Cornwall (England : County) -- Fiction'
+- !lcsh 'Methodist Church (Great Britain) -- Fiction'
+title: Roger Trewinion
+url: http://www.gutenberg.org/ebooks/24976
